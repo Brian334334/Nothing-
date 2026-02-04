@@ -1,4 +1,2 @@
 **Nothing**
 
-constant
-
