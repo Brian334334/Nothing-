@@ -1,4 +1,3 @@
 **Nothing**
 
-constant
-every day
+the 10000th time
